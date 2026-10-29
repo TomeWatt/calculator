@@ -7,3 +7,9 @@ Add, subtract, multiply and divide two numbers; display the result.
 Run: python3 calculator.py
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
+## Alternative run command and test
+Run: ./run.sh
+Operate as above
+Function can be tested using 6 * 7 = 42.0
+## How to stop the program
+Stop: ctrl + c
