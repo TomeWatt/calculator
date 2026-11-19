@@ -5,3 +5,4 @@ keep-demo.log
 Notes.txt
 .venv/
 .pytest_cache/
+working_folder
